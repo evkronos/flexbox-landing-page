@@ -142,3 +142,39 @@
     font-weight: 700;
     font-size: 28px;
 }
+
+.sign-up-section {
+    width: 100%;
+    background-color: white;
+    padding: 100px 50px;
+    display: flex;
+}
+
+.sign-up-container {
+    margin: auto;
+    display: flex;
+    width: 78%;
+    padding: 50px;
+    border-radius: 10px;
+    background-color: #3882f6;
+    justify-content: space-between;
+}
+
+
+.botton-button button {
+    background-color: #3882f6;
+    border: 3px solid white;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+}
+
+.sign-text .bigger {
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.sign-text .smaller {
+    color: #f9faf8;
+}
