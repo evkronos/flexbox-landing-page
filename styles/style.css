@@ -8,7 +8,7 @@
     box-sizing: border-box;
 }
 
-.header {
+.section-1 {
     background-color: #1f2937;
     display: flex;
     justify-content: space-around;
@@ -16,20 +16,20 @@
     padding: 10px;
 }
 
-.header a {
+.section-1 a {
     text-decoration: none;
     color: #e5e7eb;
     font-size: 18px;
     margin: 8px;
 }
 
-.header .logo {
+.section-1 .logo {
     color: #f9faf8;
     font-size: 24px;
     font-weight: 700;
 }
 
-.hero-container {
+.section-2 {
     background-color: #1f2937;
     width: 100%;
     height: 80vh;
@@ -83,7 +83,7 @@
     max-width: 500px;
 }
 
-.information-container {
+.section-3 {
     background-color: white;
     width: 100%;
     height: 400px;
@@ -117,7 +117,7 @@
     border-radius: 10px;
 }
 
-.quote-container {
+.section-4 {
     width: 100%;
     background-color: #e5e7eb;
     display: flex;
@@ -143,7 +143,7 @@
     font-size: 28px;
 }
 
-.sign-up-section {
+.section-5 {
     width: 100%;
     background-color: white;
     padding: 100px 50px;
